@@ -37,7 +37,7 @@ return {
 			},
 		},
 		steps = { -- I am Nubtron, the multilingual friendly robot.
-			intro = [[Hello! I will teach you how to play Zero-K. Just follow my instructions and learn at your own pace.
+			intro = [[Hello! I will teach you how to play Ultimatum. Just follow my instructions and learn at your own pace.
 <(Click next to continue)>]],
 			intro2 = [[Just follow my instructions and learn at your own pace. <(Click next to continue)>]],
 			intro3 = [[Move the camera with the <arrow keys>, <middle mouse button>, or moving your cursor to the <screen edge>.
@@ -51,7 +51,7 @@ return {
 			selectBotLab = [[Select your <Cloakbot Factory> by <left clicking> on it (look for the flashing blue circles).]],
 			selectCon = [[Select your constructor by <left clicking> on it (look for the flashing blue circles).]],
 			guardFac = [[Have the constructor guard your factory by right clicking on the factory. The constructor will assist it until you give it a different order.]],
-			tutorialEnd = [[This is the end of the tutorial. Check out the <campaign> for a more thorough introduction to Zero-K. I can be re-enabled in the <Menu (F10)> under <Help>. Goodbye!
+			tutorialEnd = [[This is the end of the tutorial. Check out the <campaign> for a more thorough introduction to Ultimatum. I can be re-enabled in the <Menu (F10)> under <Help>. Goodbye!
 <(Click next to cycle tips, or X to close the tutorial)>]],
 			
 			selectBuild_m = [[Select the <#replace#> from your build menu (build-icon shown here)]],
@@ -134,7 +134,7 @@ return {
 			},
 		},
 		steps = {
-			intro = [[Bonjour! Je suis Nubtron, votre amical compagnon robot multilingue! Je vais vous apprendre à jouer a Zero-K. <(Cliquez ici pour continuer)>]],
+			intro = [[Bonjour! Je suis Nubtron, votre amical compagnon robot multilingue! Je vais vous apprendre à jouer a Ultimatum. <(Cliquez ici pour continuer)>]],
 			intro2 = [[Vous n'avez qu'à suivre mes instructions. Vous pouvez déplacer cette fenêtre en cliquant autour de ma tête. <(Cliquez ici pour continuer)>]],
 			intro3 = [[Entrainez-vous à zoomer avec la camera en utilisant la molette de la souris <(Cliquez ici pour continuer)>]],
 			intro4 = [[Vous pouvez déplacer la caméra en utilisant les flèches du clavier, ou en approchant les bords de l'écran avec le curseur. <(Cliquez ici pour continuer)>]],
@@ -189,7 +189,7 @@ return {
 			},
 		},
 		steps = {
-			intro = [[Terve! Minä olen Nubtron, ystävällinen robottiapurisi. Minä opetan sinua pelaamaan Zero-K:ia opastetun harjoittelun avulla. <(Paina tästä jatkaaksesi)>]],
+			intro = [[Terve! Minä olen Nubtron, ystävällinen robottiapurisi. Minä opetan sinua pelaamaan Ultimatum:ia opastetun harjoittelun avulla. <(Paina tästä jatkaaksesi)>]],
 			intro2 = [[Seuraa vain ohjeitani. Voit liikutella tätä ikkunaa tarttumalla kuvastani hiiren kursorilla. <(Paina tästä jatkaaksesi)>]],
 			intro3 = [[Harjoittele näkymän lähentämistä ja loitontamista käyttämällä hiiren rullaa. <(Paina tästä jatkaaksesi)>]],
 			intro4 = [[Harjoittele näkymän vierittämistä ylös, alas, vasemmalle sekä oikealle nuolinäppäimien avulla. <(Paina tästä jatkaaksesi)>]],
@@ -244,7 +244,7 @@ return {
 			},
 		},
 		steps = {
-			intro = [[Selamat datang! Saya ialah Nubtron, sahabat robot anda yang berbilang bahasa. Saya akan mengajar anda cara bermain Zero-K. <(Klik Next untuk teruskan)>]],
+			intro = [[Selamat datang! Saya ialah Nubtron, sahabat robot anda yang berbilang bahasa. Saya akan mengajar anda cara bermain Ultimatum. <(Klik Next untuk teruskan)>]],
 			intro2 = [[Anda hanya perlu menurti arahan saya. Anda boleh mengerakkan kotak di sekelliling mukaku ini. <(Klik Next untuk teruskan)>]],
 			intro3 = [[Berlatih menatal kamera dekat dan jauh dengan roda tatal tetikus anda. <(Klik Next untuk teruskan)>]],
 			intro4 = [[Berlatih menarik kamera ke atas, bawah, kiri dan kanan dengan kekunci anak panah. <(Klik Next untuk teruskan)>]],
@@ -299,7 +299,7 @@ return {
 			},
 		},
 		steps = {
-			intro = [[Dzien dobry! Jestem Nubtron, wielojezyczny, przyjacielski robot. Naucze cie jak grac w Zero-K. <(Nacisnij tutaj aby kontynuowac)>]],
+			intro = [[Dzien dobry! Jestem Nubtron, wielojezyczny, przyjacielski robot. Naucze cie jak grac w Ultimatum. <(Nacisnij tutaj aby kontynuowac)>]],
 			intro2 = [[Wykonuj moje instrukcje. Mozesz przesuwac to okienko lapiac za moja twarz. <(Nacisnij tutaj aby kontynuowac)>]],
 			intro3 = [[Sprobuj przyblizac i oddalac obraz uzywajac kulki/pokretla myszy. <(Nacisnij tutaj aby kontynuowac)>]],
 			intro4 = [[Sprobuj przesuwac obraz uzywajac strzalek. <(Nacisnij tutaj aby kontynuowac)>]],

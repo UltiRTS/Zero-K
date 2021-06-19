@@ -15,7 +15,7 @@ end
 function addon.Initialize()
 	-- not putting the version allows detection
 	-- by external programs, such as Discord
-	Spring.SetWMCaption("Zero-K", "Zero-K")
+	Spring.SetWMCaption("Ultimatum", "Ultimatum")
 
-	Spring.SetWMIcon("LuaUI/Images/ZK_logo.png")
+	Spring.SetWMIcon("LuaUI/Images/ultirts.png")
 end
